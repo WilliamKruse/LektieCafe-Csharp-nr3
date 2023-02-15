@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lektiecafe-csharp-nr3", "lektiecafe-csharp-nr3\lektiecafe-csharp-nr3.csproj", "{C30B2AAE-7B69-4497-BEFC-3DAABADB7BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C30B2AAE-7B69-4497-BEFC-3DAABADB7BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30B2AAE-7B69-4497-BEFC-3DAABADB7BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30B2AAE-7B69-4497-BEFC-3DAABADB7BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30B2AAE-7B69-4497-BEFC-3DAABADB7BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926D95C8-0AC2-4E3E-ACA6-C2AC48537F66}
+	EndGlobalSection
+EndGlobal
